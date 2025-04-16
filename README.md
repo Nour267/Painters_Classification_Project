@@ -52,3 +52,18 @@ Triplet Loss was used to ensure the anchor is closer to the positive than to the
      Test Accuracy: 81.78%
      Overfitting observed after epoch 12
      Model trained on ~30,000 triplets per epoch using 224x224 center-cropped images
+
+Train & Validation Loss
+
+
+![Train   Validation Loss](https://github.com/user-attachments/assets/ae511c5f-39c5-429f-992d-85ff5b28018d)
+
+Train & Test Accuracy
+
+![Train Accuracy](https://github.com/user-attachments/assets/6d70f3dc-5328-40b0-9924-ec741aa8b274)
+
+
+
+![Test Accuracy](https://github.com/user-attachments/assets/e364a7c5-330c-4a7d-a4b3-0811f596faed)
+
+
